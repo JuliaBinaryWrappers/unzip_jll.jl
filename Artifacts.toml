@@ -1,0 +1,143 @@
+[[unzip]]
+arch = "aarch64"
+git-tree-sha1 = "7159eab5133d513b4368c22a07384bc8522906f5"
+os = "macos"
+
+    [[unzip.download]]
+    sha256 = "f1cad36ef43d44cc714446d25f69493732f1e65d99a2f281ae05c0ed02d264fc"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.aarch64-apple-darwin.tar.gz"
+[[unzip]]
+arch = "aarch64"
+git-tree-sha1 = "9a18bf05578e695a675315d1238c842d6a0490e4"
+libc = "glibc"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "a4bbd66f9ae2420713ea8ad007554473719fdc657b95ad79a10a31d8ec6475c9"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.aarch64-linux-gnu.tar.gz"
+[[unzip]]
+arch = "aarch64"
+git-tree-sha1 = "91ed7516a9de560dcaa3dcac94679ed7d55556c6"
+libc = "musl"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "2e16ac00d18bbd7d25ddbc2d9ece7a5868fd5fa801dc5ffbaef8c61dd87c4b35"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.aarch64-linux-musl.tar.gz"
+[[unzip]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "4dd7a8db9c42957a0c4b8c7487522dd17fc91479"
+libc = "glibc"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "07b482f49ad2aba9b1d9c5451b1245f09b85520582b0a3d69ba73f968e59a2d7"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.armv6l-linux-gnueabihf.tar.gz"
+[[unzip]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "cfd091e99092eda4d31bd8b8f2e6d2a60edc65f9"
+libc = "musl"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "eebd20a3b3822f06a855067dfda8251fa8d259f27471f0ef0e7081ee16044d88"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.armv6l-linux-musleabihf.tar.gz"
+[[unzip]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9bb91f8be4bb4e51847e63cb70efb76efd4b478a"
+libc = "glibc"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "78e96cf0afefe2085440e81aef0309711110dea99b9b2ef828267684bc99ba04"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.armv7l-linux-gnueabihf.tar.gz"
+[[unzip]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8991caffc0ee5672ae360d8be0809065a8bcd9ba"
+libc = "musl"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "d7b27840cbc6ef301c4e3c039984e2c83a167cf0d2926e4583825fee325e66db"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.armv7l-linux-musleabihf.tar.gz"
+[[unzip]]
+arch = "i686"
+git-tree-sha1 = "f8090dc23834659baa83a5a09004c72750d028d7"
+libc = "glibc"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "91c7ee84e23ef1c025ccba92e0d92f5d1f5cf2418a7ab9b6ef0c3b6d81801df3"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.i686-linux-gnu.tar.gz"
+[[unzip]]
+arch = "i686"
+git-tree-sha1 = "3815da6a7df704c11a32a14419c1c3d7585c6353"
+libc = "musl"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "a555b3a763fc05fa1652dddaa89ee00b78d51bbc0885da0e3e978652f727df40"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.i686-linux-musl.tar.gz"
+[[unzip]]
+arch = "i686"
+git-tree-sha1 = "efc937149155c6f8e63a92bdc1e94821383c36aa"
+os = "windows"
+
+    [[unzip.download]]
+    sha256 = "41514780c6c1fb3582e558508f897e539eb344ca9070d3fd0e6c7230092a7fea"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.i686-w64-mingw32.tar.gz"
+[[unzip]]
+arch = "powerpc64le"
+git-tree-sha1 = "aec58e8a0c1ca3002d9a121788c5c6248087af78"
+libc = "glibc"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "a6ddda6f864b5f3c89f303e089374ba5f0582234667c37343f688eeedc099430"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.powerpc64le-linux-gnu.tar.gz"
+[[unzip]]
+arch = "x86_64"
+git-tree-sha1 = "91325538aedc8efc757b9598ccb92d8af602cc1f"
+os = "macos"
+
+    [[unzip.download]]
+    sha256 = "5cef84258ca501631d104354275c1dbc9a3e1373704bba4a589a7079434865a4"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.x86_64-apple-darwin.tar.gz"
+[[unzip]]
+arch = "x86_64"
+git-tree-sha1 = "4524c7033c5feaf1ed76ec0b81800590601a3411"
+libc = "glibc"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "32fed04e87ab0cf087c69839c4ebac4368dd20f9add056a6e0c9b97c55d94017"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.x86_64-linux-gnu.tar.gz"
+[[unzip]]
+arch = "x86_64"
+git-tree-sha1 = "20ae69fd62cce67a03672aaa332f9839c023f6bc"
+libc = "musl"
+os = "linux"
+
+    [[unzip.download]]
+    sha256 = "5a67d7d923ae7f144295edbfd4fbdb402ce5ff3e503c4200a56d24fc3ceab7d8"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.x86_64-linux-musl.tar.gz"
+[[unzip]]
+arch = "x86_64"
+git-tree-sha1 = "bf7963a7699d784d61f741a4fe565207ae41a313"
+os = "freebsd"
+
+    [[unzip.download]]
+    sha256 = "752fd032d2b612973ce86409415d96e9d5ccc88ae11be9738c5a5ee1fb94a060"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.x86_64-unknown-freebsd.tar.gz"
+[[unzip]]
+arch = "x86_64"
+git-tree-sha1 = "b88c3a4a3bda0232f202211d90ddfacdb66f7480"
+os = "windows"
+
+    [[unzip.download]]
+    sha256 = "570a6ed7114166b4ff535147075b2aea7b4ea6677c05cd4bdd2b3e9191df4d10"
+    url = "https://github.com/JuliaBinaryWrappers/unzip_jll.jl/releases/download/unzip-v6.0.2+0/unzip.v6.0.2.x86_64-w64-mingw32.tar.gz"
